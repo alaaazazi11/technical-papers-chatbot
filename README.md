@@ -1,4 +1,4 @@
-#Chatbot Using Agentic RAG
+# Chatbot Using Agentic RAG
 <!-- Badges -->
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue)](https://www.python.org/downloads/)
 [![LangChain](https://img.shields.io/badge/LangChain-Powered-00A67E)](https://python.langchain.com/)
